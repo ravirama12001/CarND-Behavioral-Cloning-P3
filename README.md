@@ -3,7 +3,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <p align="center">
- <a href="https://www.youtube.com/watch?v=d9KjyGlr_iQ"><img src="./images/giphy.gif" alt="Behavioral Cloning" width="70%" height="70%"></a>
+ <a href="https://www.youtube.com/watch?v=d9KjyGlr_iQ"><img src="./track1.gif" alt="Behavioral Cloning" width="70%" height="70%"></a>
  <br>Behavioral Cloning Result
 </p>
 
