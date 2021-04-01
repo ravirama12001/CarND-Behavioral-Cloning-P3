@@ -11,7 +11,8 @@ Get the Udacity base project for CarND-Behavioral-Cloning-P3
 
 Step2:
 
-Generate Data using Car Simulator. Here more data more accuracy.
+Generate Data using Car Simulator. 
+Remember more data means more accuracy.
 I have recorded 3 laps for good accuracy.
 
 Step3:
