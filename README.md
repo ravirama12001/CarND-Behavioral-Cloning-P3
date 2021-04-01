@@ -8,11 +8,8 @@
 
 Overview
 ---
-<div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="run1.mp4" type="video/mp4" />
-   </video>
-</div>
+
+<video src="run1.mp4" width="320" height="200" controls preload></video>
 
 This repository contains starting files for the Behavioral Cloning Project.
 In this project, I've used what I've learned about deep neural networks and convoltional neural networks. 
