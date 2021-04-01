@@ -2,11 +2,12 @@
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-Step by step guide:
+# Step by step guide to complete this project
 ---
 I will give you Step by step guild on how I have achieved this project.
 
 **Step1**: 
+
 	Get the Udacity base project for CarND-Behavioral-Cloning-P3
 
 **Step2**:
@@ -25,13 +26,13 @@ I will give you Step by step guild on how I have achieved this project.
 
 	Once Data is Collected now good to Create model using the gathered data.
 
-I have used nvidia [model](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
+	I have used nvidia [model](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
 
-Modify **model.py** to create model. You need to save file to model.h5
+	Modify **model.py** to create model. You need to save file to model.h5
 
-Once model.py completed, run below
+	Once model.py completed, run below
 
-python model.py to create model.h5 as in my code
+	python model.py to create model.h5 as in my code
 
 **Step5**: 
 
