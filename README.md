@@ -2,6 +2,10 @@
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+
+
+
+
 # Step by step guide to complete this project
 ---
 I will give you Step by step guild on how I have achieved this project.
@@ -14,6 +18,7 @@ I will give you Step by step guild on how I have achieved this project.
 
 	Generate Data using Car Simulator. 
 	Remember more data means more accuracy.
+
 	I have recorded 3 laps for good accuracy.
 
 **Step3**:
