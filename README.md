@@ -2,8 +2,11 @@
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-
-
+<div class="row post-image-bg" markdown="1">
+    <video width="99%" height="540" autoplay loop muted markdown="1">
+        <source src="run1.mp4" type="video/mp4" markdown="1" >
+    </video>
+</div>
 
 
 # Step by step guide to complete this project
